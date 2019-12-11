@@ -24,9 +24,11 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# mbed-os path
+mbed-os/
